@@ -25,7 +25,7 @@
     <div class="q-pt-xl q-pa-sm bg-grey-2">
       <div class="row">
         <div class="col-12 col-md-4">
-          <img src="/public/icons/brand_dark.png" alt="" />
+          <img src="src/assets/icons/brand_dark.png" alt="" />
           <p class="q-mt-lg text-weight-bolder">
             우리는 국가의 장벽을 넘어 최고의 인재를 매칭해드립니다.
           </p>

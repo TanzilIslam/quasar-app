@@ -2,7 +2,7 @@
   <q-layout view="lHh Lpr lFf">
     <q-header>
       <q-toolbar class="bg-primary text-white justify-between">
-        <img src="/public/icons/brand.svg" />
+        <img src="src/assets/icons/brand.svg" />
         <q-btn
           right
           flat

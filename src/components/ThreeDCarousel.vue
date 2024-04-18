@@ -49,7 +49,7 @@ export default {
       modules: [EffectCards, Navigation],
       slides: [
         {
-          img: "/public/avatars/slideAvatar.png",
+          img: "/assets/avatars/slideAvatar.png",
           name: "Tanzil Islam",
           experience: "마케팅 · 2y+",
           tags: [
@@ -60,7 +60,7 @@ export default {
           ],
         },
         {
-          img: "/public/avatars/slideAvatar.png",
+          img: "/assets/avatars/slideAvatar.png",
           name: "Ujjal Roy",
           experience: "마케팅 · 3y+",
           tags: [
